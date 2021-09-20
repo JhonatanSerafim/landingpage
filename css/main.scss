@@ -25,19 +25,19 @@ body {
             color: var(--primary-color);
         }
     }
-}
 
-nav {
-    display: none;
-}
+    nav {
+        display: none;
+    }
 
-.container {
-    display: flex;
-    place-content: space-between;
-}
+    .container {
+        display: flex;
+        place-content: space-between;
+    }
 
-.mobile-menu {
-    cursor: pointer;
+    .mobile-menu {
+        cursor: pointer;
+    }
 }
 
 a {
